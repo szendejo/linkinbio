@@ -10,9 +10,10 @@
 }
 
 body {
-  background-image: url(./images/background.png);
-  background-color: var(--darkest-color);
-  background-repeat: no-repeat;
+  background-image: url(./images/background.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
   color: var(--font-color);
   font-family: 'Roboto', sans-serif;
