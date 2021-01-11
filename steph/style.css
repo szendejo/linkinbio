@@ -1,12 +1,12 @@
-/* color palette from https://www.color-hex.com/color-palettes */
+/* color palette from https://www.canva.com/colors/color-palette-generator/ */
 :root {
   --darkest-color: #000000;
-  --font-color:  	#000000;
-  --highlight-color: #ffffff;
-  --bright-color-1:  	#234d20;
-  --bright-color-2:#36802d;
-  --bright-color-3:  	#c9df8a;
-  --bright-color-4:  	#77ab59;
+  --font-color:  	#ffffff;
+  --highlight-color: #544d76;
+  --bright-color-1:  	#b193ae;
+  --bright-color-2:#7b4f68;
+  --bright-color-3:  	#544d76;
+  --bright-color-4:  	#9f4d48;
 }
 
 body {
@@ -79,7 +79,7 @@ a:hover {
 }
 
 .dark {
-  background: var(--bright-color-1);
+  background: var(--bright-color-3);
 }
 
 .medium {
@@ -87,7 +87,7 @@ a:hover {
 }
 
 .light {
-  background: var(--bright-color-3);
+  background: var(--bright-color-1);
 }
 
 .bright {
