@@ -11,6 +11,7 @@
 
 body {
   background-image: url(./images/background.png);
+  background-color: #a2aed9;
   background-repeat: no-repeat;
   background-size: 100% 170%;
   color: var(--font-color);
