@@ -12,7 +12,7 @@
 body {
   background-image: url(./images/background.png);
   background-repeat: no-repeat;
-  background-size: 100% 110%;
+  background-size: 100% 170%;
   color: var(--font-color);
   font-family: 'Roboto', sans-serif;
 }
